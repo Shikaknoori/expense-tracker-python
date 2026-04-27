@@ -1,0 +1,18 @@
+[
+    {
+        "type": "income",
+        "amount": 1000,
+        "category": "salary"
+    },
+    {
+        "type": "expense",
+        "amount": 50,
+        "category": "food"
+    },
+    {
+        "type": "income",
+        "amount": 300.0,
+        "category": "freelane",
+        "date": "2026-04-27 17:10"
+    }
+]
