@@ -9,4 +9,11 @@ A simple command-line application to track income and expenses.
 
 ## How to Run
 ```bash
+## ▶️ Run Online (GitHub Codespaces)
+
+1. Click the "Code" button on this repository
+2. Open the "Codespaces" tab
+3. Click "Create Codespace"
+4. Run:
+```bash
 python main.py
